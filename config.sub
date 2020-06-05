@@ -1357,7 +1357,7 @@ case $os in
 	     | midipix* | mingw32* | mingw64* | linux-gnu* | linux-android* \
 	     | linux-newlib* | linux-musl* | linux-uclibc* \
 	     | uxpv* | beos* | mpeix* | udk* | moxiebox* \
-	     | interix* | uwin* | mks* | rhapsody* | darwin* \
+	     | interix* | uwin* | mks* | rhapsody* | darwin* | nautilus* \
 	     | openstep* | oskit* | conix* | pw32* | nonstopux* \
 	     | storm-chaos* | tops10* | tenex* | tops20* | its* \
 	     | os2* | vos* | palmos* | uclinux* | nucleus* \
